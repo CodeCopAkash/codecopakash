@@ -5,10 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on Personal Finance Tracker.
-- 🌱 I’m currently learning Spring Boot.
+- 🔭 I’m currently working on Flash Card for memory booster.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: connectAkash.com.
-- ⚡ Fun fact: Java is an Island in Indonesia
+- ⚡ Fun fact: Java is an Island in Indonesia and Python is older than Java
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
